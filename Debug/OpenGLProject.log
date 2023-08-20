@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Dewayne\source\repos\OpenGLProject\Window.h(15,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Dewayne\source\repos\OpenGLProject\Window.h(16,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Dewayne\source\repos\OpenGLProject\main.cpp(429,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dewayne\source\repos\OpenGLProject\main.cpp(484,86): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\Dewayne\source\repos\OpenGLProject\main.cpp(484,68): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\Dewayne\source\repos\OpenGLProject\main.cpp(484,47): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\Dewayne\source\repos\OpenGLProject\main.cpp(484,22): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLProject.vcxproj -> C:\Users\Dewayne\source\repos\OpenGLProject\Debug\OpenGLProject.exe
