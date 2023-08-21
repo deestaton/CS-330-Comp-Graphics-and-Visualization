@@ -1,3 +1,10 @@
+/*
+* Dewayne Staton
+* CS-330 Computational Graphics and Visualization
+* Southern New Hampshire University
+* August 13, 2023
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <cmath>
